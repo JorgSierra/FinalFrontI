@@ -232,10 +232,11 @@ footer .footerNavContainer .socialLogo .social{
     color: white;
     font-size: 1.5rem;
 }
-footer .footerNavContainer .socialLogo .social i{
+footer .footerNavContainer .socialLogo .social a{
+    color: white;
     padding: 5px;
 }
-footer .footerNavContainer .socialLogo .social i:hover,
+footer .footerNavContainer .socialLogo .social a i:hover,
 footer .footerNavContainer .links .nav-links ul li a:hover{
     color: #F3603B;
 }
