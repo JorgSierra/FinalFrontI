@@ -236,7 +236,7 @@ footer .footerNavContainer .socialLogo .social a{
     color: white;
     padding: 5px;
 }
-footer .footerNavContainer .socialLogo .social a i:hover,
+footer .footerNavContainer .socialLogo .social a:hover,
 footer .footerNavContainer .links .nav-links ul li a:hover{
     color: #F3603B;
 }
